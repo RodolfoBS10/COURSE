@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="POO" />
-        <module name="JAVA COURSE POO" />
+        <module name="Course2" />
       </profile>
     </annotationProcessing>
   </component>
